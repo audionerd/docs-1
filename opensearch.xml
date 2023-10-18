@@ -4,8 +4,8 @@
   <ShortName>Stately</ShortName>
   <Description>Search Stately</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://stately.ai/statelyai-docs/icon.svg</Image>
-  <Url type="text/html" method="get" template="https://stately.ai/statelyai-docs/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://stately.ai/statelyai-docs/opensearch.xml" />
-  <moz:SearchForm>https://stately.ai/statelyai-docs/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://audionerd.github.io/statelyai-docs/icon.svg</Image>
+  <Url type="text/html" method="get" template="https://audionerd.github.io/statelyai-docs/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://audionerd.github.io/statelyai-docs/opensearch.xml" />
+  <moz:SearchForm>https://audionerd.github.io/statelyai-docs/</moz:SearchForm>
 </OpenSearchDescription>
