@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstately_docs=self.webpackChunkstately_docs||[]).push([[40673],{82074:s=>{s.exports=JSON.parse('{"label":"stately studio","permalink":"/blog/tags/stately-studio","allTagsPath":"/blog/tags","count":4}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstately_docs=self.webpackChunkstately_docs||[]).push([[10001],{82638:e=>{e.exports=JSON.parse('{"permalink":"/blog/page/2","page":2,"postsPerPage":10,"totalPages":9,"totalCount":87,"previousPage":"/blog","nextPage":"/blog/page/3","blogDescription":"Stately\u2019s engineering blog","blogTitle":"Stately Blog"}')}}]);

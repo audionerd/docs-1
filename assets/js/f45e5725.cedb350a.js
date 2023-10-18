@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstately_docs=self.webpackChunkstately_docs||[]).push([[31423],{48213:e=>{e.exports=JSON.parse('{"label":"weekly question","permalink":"/blog/tags/weekly-question","allTagsPath":"/blog/tags","count":1}')}}]);

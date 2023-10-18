@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstately_docs=self.webpackChunkstately_docs||[]).push([[2297],{85215:e=>{e.exports=JSON.parse('{"label":"embed mode","permalink":"/blog/tags/embed-mode","allTagsPath":"/blog/tags","count":1}')}}]);

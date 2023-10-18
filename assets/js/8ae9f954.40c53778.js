@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstately_docs=self.webpackChunkstately_docs||[]).push([[16174],{36515:s=>{s.exports=JSON.parse('{"label":"version history","permalink":"/blog/tags/version-history","allTagsPath":"/blog/tags","count":1}')}}]);

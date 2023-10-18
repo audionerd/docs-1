@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstately_docs=self.webpackChunkstately_docs||[]).push([[23917],{18414:a=>{a.exports=JSON.parse('{"label":"light mode and dark mode","permalink":"/blog/tags/light-mode-and-dark-mode","allTagsPath":"/blog/tags","count":1}')}}]);

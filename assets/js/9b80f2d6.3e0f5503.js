@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstately_docs=self.webpackChunkstately_docs||[]).push([[83681],{57401:e=>{e.exports=JSON.parse('{"label":"useReducer","permalink":"/blog/tags/use-reducer","allTagsPath":"/blog/tags","count":2}')}}]);
