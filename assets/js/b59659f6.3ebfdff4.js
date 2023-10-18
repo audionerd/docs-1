@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkstately_docs=self.webpackChunkstately_docs||[]).push([[2045],{32661:e=>{e.exports=JSON.parse('{"label":"typegen","permalink":"/blog/tags/typegen","allTagsPath":"/blog/tags","count":1}')}}]);

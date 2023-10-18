@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstately_docs=self.webpackChunkstately_docs||[]).push([[69910],{53627:e=>{e.exports=JSON.parse('{"permalink":"/statelyai-docs/blog/tags/fixed/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":11,"previousPage":"/statelyai-docs/blog/tags/fixed","blogDescription":"Stately\u2019s engineering blog","blogTitle":"Stately Blog"}')}}]);

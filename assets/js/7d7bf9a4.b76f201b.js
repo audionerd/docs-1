@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstately_docs=self.webpackChunkstately_docs||[]).push([[98960],{74839:s=>{s.exports=JSON.parse('{"label":"generate flows","permalink":"/statelyai-docs/blog/tags/generate-flows","allTagsPath":"/statelyai-docs/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstately_docs=self.webpackChunkstately_docs||[]).push([[35650],{44520:s=>{s.exports=JSON.parse('{"label":"pro features","permalink":"/statelyai-docs/blog/tags/pro-features","allTagsPath":"/statelyai-docs/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstately_docs=self.webpackChunkstately_docs||[]).push([[70790],{88576:e=>{e.exports=JSON.parse('{"permalink":"/statelyai-docs/blog/tags/vscode-extension","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Stately\u2019s engineering blog","blogTitle":"Stately Blog"}')}}]);

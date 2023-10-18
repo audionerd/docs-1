@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstately_docs=self.webpackChunkstately_docs||[]).push([[3635],{21202:a=>{a.exports=JSON.parse('{"label":"light mode and dark mode","permalink":"/statelyai-docs/blog/tags/light-mode-and-dark-mode","allTagsPath":"/statelyai-docs/blog/tags","count":1}')}}]);

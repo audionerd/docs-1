@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstately_docs=self.webpackChunkstately_docs||[]).push([[42177],{45098:s=>{s.exports=JSON.parse('{"label":"vscode extension","permalink":"/statelyai-docs/blog/tags/vscode-extension","allTagsPath":"/statelyai-docs/blog/tags","count":2}')}}]);

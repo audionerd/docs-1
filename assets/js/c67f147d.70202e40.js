@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstately_docs=self.webpackChunkstately_docs||[]).push([[41100],{64590:s=>{s.exports=JSON.parse('{"label":"business logic","permalink":"/statelyai-docs/blog/tags/business-logic","allTagsPath":"/statelyai-docs/blog/tags","count":3}')}}]);

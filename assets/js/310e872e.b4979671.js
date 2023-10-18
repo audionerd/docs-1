@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkstately_docs=self.webpackChunkstately_docs||[]).push([[81657],{42999:s=>{s.exports=JSON.parse('{"label":"vscode extension","permalink":"/blog/tags/vscode-extension","allTagsPath":"/blog/tags","count":2}')}}]);

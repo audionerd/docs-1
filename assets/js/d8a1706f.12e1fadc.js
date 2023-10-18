@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstately_docs=self.webpackChunkstately_docs||[]).push([[29188],{75919:s=>{s.exports=JSON.parse('{"label":"redux","permalink":"/statelyai-docs/blog/tags/redux","allTagsPath":"/statelyai-docs/blog/tags","count":4}')}}]);
