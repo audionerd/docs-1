@@ -105,17 +105,6 @@ The owner can instead delete the team.</p><p>For more detailed information, visi
             <category>fixed</category>
         </item>
         <item>
-            <title><![CDATA[Fixes and improvements]]></title>
-            <link>https://audionerd.github.io/statelyai-docs/blog/2023-09-06-fixes-and-improvements</link>
-            <guid>https://audionerd.github.io/statelyai-docs/blog/2023-09-06-fixes-and-improvements</guid>
-            <pubDate>Wed, 06 Sep 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[We’ve released many new features recently, but we’ve also made minor enhancements and bug fixes to improve your Stately experience.]]></description>
-            <content:encoded><![CDATA[<p>We’ve released many new features recently, but we’ve also made minor enhancements and bug fixes to improve your Stately experience.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="bug-fixes">Bug fixes<a href="#bug-fixes" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><ul><li>The fork machine button is now hidden for empty projects.</li><li>The generate flow button is now shown on empty projects.</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="improvements-to-descriptions-and-annotations">Improvements to descriptions and annotations<a href="#improvements-to-descriptions-and-annotations" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><p>Descriptions and annotations have had an upgrade. You can now add a description to states and events from the edit menu edit (right-click on the state or event) and edit descriptions by double-clicking them.</p><p>We also made the following improvements to both descriptions and annotations:</p><ul><li>URLs will be detected as links automatically.</li><li>Paste a URL onto selected text to turn it into a link.</li><li>Add task lists by using <code>[ ]</code> at the beginning of each line.</li><li>Add code fences using triple <code>```…```</code> backticks.</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="improvements">Improvements<a href="#improvements" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3><ul><li>Action blocks are now multiline and show more information about the action.</li><li>Assign actions now show the keys and values that are being assigned.</li><li>Send to actions now show the event object when you hover over the event.</li><li>You can now drag an event or state when holding down on an image inside the description.</li><li>Extra parentheses are no longer added around XState V4 exported code. And it's now less sensitive toward whitespaces.</li><li>Assign actions now have a better color in light mode.</li><li>Auto-layout is now allowed when previewing machine versions.</li><li>You will now be redirected to your projects if you try to open an empty project you can't edit.</li><li>Users on the community plan can now see the Pro lock machine features and learn about them.</li><li>A medley of internal fixes and improvements.</li></ul>]]></content:encoded>
-            <category>changelog</category>
-            <category>improved</category>
-            <category>fixed</category>
-        </item>
-        <item>
             <title><![CDATA[New experimental feature: generating flows]]></title>
             <link>https://audionerd.github.io/statelyai-docs/blog/2023-09-06-generating-flows</link>
             <guid>https://audionerd.github.io/statelyai-docs/blog/2023-09-06-generating-flows</guid>
@@ -125,6 +114,17 @@ The owner can instead delete the team.</p><p>For more detailed information, visi
             <category>pro</category>
             <category>generate flows</category>
             <category>modeling</category>
+        </item>
+        <item>
+            <title><![CDATA[Fixes and improvements]]></title>
+            <link>https://audionerd.github.io/statelyai-docs/blog/2023-09-06-fixes-and-improvements</link>
+            <guid>https://audionerd.github.io/statelyai-docs/blog/2023-09-06-fixes-and-improvements</guid>
+            <pubDate>Wed, 06 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[We’ve released many new features recently, but we’ve also made minor enhancements and bug fixes to improve your Stately experience.]]></description>
+            <content:encoded><![CDATA[<p>We’ve released many new features recently, but we’ve also made minor enhancements and bug fixes to improve your Stately experience.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="bug-fixes">Bug fixes<a href="#bug-fixes" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><ul><li>The fork machine button is now hidden for empty projects.</li><li>The generate flow button is now shown on empty projects.</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="improvements-to-descriptions-and-annotations">Improvements to descriptions and annotations<a href="#improvements-to-descriptions-and-annotations" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><p>Descriptions and annotations have had an upgrade. You can now add a description to states and events from the edit menu edit (right-click on the state or event) and edit descriptions by double-clicking them.</p><p>We also made the following improvements to both descriptions and annotations:</p><ul><li>URLs will be detected as links automatically.</li><li>Paste a URL onto selected text to turn it into a link.</li><li>Add task lists by using <code>[ ]</code> at the beginning of each line.</li><li>Add code fences using triple <code>```…```</code> backticks.</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="improvements">Improvements<a href="#improvements" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h3><ul><li>Action blocks are now multiline and show more information about the action.</li><li>Assign actions now show the keys and values that are being assigned.</li><li>Send to actions now show the event object when you hover over the event.</li><li>You can now drag an event or state when holding down on an image inside the description.</li><li>Extra parentheses are no longer added around XState V4 exported code. And it's now less sensitive toward whitespaces.</li><li>Assign actions now have a better color in light mode.</li><li>Auto-layout is now allowed when previewing machine versions.</li><li>You will now be redirected to your projects if you try to open an empty project you can't edit.</li><li>Users on the community plan can now see the Pro lock machine features and learn about them.</li><li>A medley of internal fixes and improvements.</li></ul>]]></content:encoded>
+            <category>changelog</category>
+            <category>improved</category>
+            <category>fixed</category>
         </item>
         <item>
             <title><![CDATA[Generate flow]]></title>
