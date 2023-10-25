@@ -225,6 +225,18 @@ The owner can instead delete the team.</p><p>For more detailed information, visi
             <category>fixed</category>
         </item>
         <item>
+            <title><![CDATA[Stately minor improvements]]></title>
+            <link>https://audionerd.github.io/statelyai-docs/blog/2023-07-26-stately-minor-improvements</link>
+            <guid>https://audionerd.github.io/statelyai-docs/blog/2023-07-26-stately-minor-improvements</guid>
+            <pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Stately team has released more this week, and we have even more fixes and improvements for you.]]></description>
+            <content:encoded><![CDATA[<p>We have more fixes and improvements for you this week.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="bug-fixes">Bug fixes<a href="#bug-fixes" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><ul><li>The previously over-eager logged out toast will now only show after successfully signing out.</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="improvements">Improvements<a href="#improvements" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><ul><li>We now use the XState logo for built-in actions to distinguish them from custom actions:
+<img loading="lazy" src="https://canny.io/images/15c535b6fcbcfe8213cac46cbf38947c.png" alt="State with built-in XState entry actions, including assign, raise, log, send, and stop. These all have a corresponding XState X icon. The custom action has a lightning icon." class="img_ev3q"></li><li>We’ve labeled the <a href="https://feedback.stately.ai/changelog/export-to-mermaid" target="_blank" rel="noopener noreferrer">Export to Mermaid option</a> as “Beta” as we continuously improve this feature.</li><li>When a user shares a direct team link with another user who has been invited to the team but has yet to accept the invitation, we will now redirect that recipient to their team invitation page, where they can accept or decline the invitation.</li><li>After a user has created a new machine, the editor will always switch back to Design mode, even if the user was previously in Simulation mode.</li><li>We’ve improved the page titles so that browser tab text is easier to read and understand.</li><li>A melange of internal fixes and improvements.</li></ul>]]></content:encoded>
+            <category>changelog</category>
+            <category>beta</category>
+            <category>new</category>
+        </item>
+        <item>
             <title><![CDATA[Stately Office Hours 68]]></title>
             <link>https://audionerd.github.io/statelyai-docs/blog/2023-07-26-office-hours-68</link>
             <guid>https://audionerd.github.io/statelyai-docs/blog/2023-07-26-office-hours-68</guid>
@@ -241,18 +253,6 @@ The owner can instead delete the team.</p><p>For more detailed information, visi
             <category>ui</category>
             <category>xstate</category>
             <category>xstate v5</category>
-        </item>
-        <item>
-            <title><![CDATA[Stately minor improvements]]></title>
-            <link>https://audionerd.github.io/statelyai-docs/blog/2023-07-26-stately-minor-improvements</link>
-            <guid>https://audionerd.github.io/statelyai-docs/blog/2023-07-26-stately-minor-improvements</guid>
-            <pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Stately team has released more this week, and we have even more fixes and improvements for you.]]></description>
-            <content:encoded><![CDATA[<p>We have more fixes and improvements for you this week.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="bug-fixes">Bug fixes<a href="#bug-fixes" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><ul><li>The previously over-eager logged out toast will now only show after successfully signing out.</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="improvements">Improvements<a href="#improvements" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><ul><li>We now use the XState logo for built-in actions to distinguish them from custom actions:
-<img loading="lazy" src="https://canny.io/images/15c535b6fcbcfe8213cac46cbf38947c.png" alt="State with built-in XState entry actions, including assign, raise, log, send, and stop. These all have a corresponding XState X icon. The custom action has a lightning icon." class="img_ev3q"></li><li>We’ve labeled the <a href="https://feedback.stately.ai/changelog/export-to-mermaid" target="_blank" rel="noopener noreferrer">Export to Mermaid option</a> as “Beta” as we continuously improve this feature.</li><li>When a user shares a direct team link with another user who has been invited to the team but has yet to accept the invitation, we will now redirect that recipient to their team invitation page, where they can accept or decline the invitation.</li><li>After a user has created a new machine, the editor will always switch back to Design mode, even if the user was previously in Simulation mode.</li><li>We’ve improved the page titles so that browser tab text is easier to read and understand.</li><li>A melange of internal fixes and improvements.</li></ul>]]></content:encoded>
-            <category>changelog</category>
-            <category>beta</category>
-            <category>new</category>
         </item>
         <item>
             <title><![CDATA[Improving your flows with color]]></title>
