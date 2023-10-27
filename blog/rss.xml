@@ -127,17 +127,6 @@ The owner can instead delete the team.</p><p>For more detailed information, visi
             <category>modeling</category>
         </item>
         <item>
-            <title><![CDATA[Generate flow]]></title>
-            <link>https://audionerd.github.io/statelyai-docs/blog/2023-09-01-generate-flow</link>
-            <guid>https://audionerd.github.io/statelyai-docs/blog/2023-09-01-generate-flow</guid>
-            <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[As a Stately Pro user, you can now auto-create machines from text descriptions with our new experimental feature, Generate flow.]]></description>
-            <content:encoded><![CDATA[<p>As a Stately Pro user, you can now auto-create machines from text descriptions with our new experimental feature, <strong>Generate flow</strong>. You can generate a flow for a new machine or use the flow description to describe how you want to modify your current flow.</p><p><img loading="lazy" src="https://canny.io/images/e42062421f9551d8849e998cc5ebb78f.png" alt="Generate flow dialog: Experimental feature. With the flow description of  “a debounce flow”, hovering over the button to Generate new flow. The generated flow is visible in the background." class="img_ev3q"></p><p>There are so many reasons you might want to generate your flows, including:</p><ul><li>You have a complex machine in mind and want to get started quickly</li><li>You want an example of a state machine for a particular flow</li><li>You’re new and want to get an idea of how you can model state machines</li></ul><p>With 1000 calls a month, and a <a href="https://stately.ai/pricing" target="_blank" rel="noopener noreferrer">free 30-day Pro trial</a>, get ready to create state machines in no time!</p>]]></content:encoded>
-            <category>changelog</category>
-            <category>improved</category>
-            <category>fixed</category>
-        </item>
-        <item>
             <title><![CDATA[Lock machines]]></title>
             <link>https://audionerd.github.io/statelyai-docs/blog/2023-09-01-lock-machines</link>
             <guid>https://audionerd.github.io/statelyai-docs/blog/2023-09-01-lock-machines</guid>
@@ -150,6 +139,17 @@ The owner can instead delete the team.</p><p>For more detailed information, visi
             <category>new</category>
         </item>
         <item>
+            <title><![CDATA[Generate flow]]></title>
+            <link>https://audionerd.github.io/statelyai-docs/blog/2023-09-01-generate-flow</link>
+            <guid>https://audionerd.github.io/statelyai-docs/blog/2023-09-01-generate-flow</guid>
+            <pubDate>Fri, 01 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[As a Stately Pro user, you can now auto-create machines from text descriptions with our new experimental feature, Generate flow.]]></description>
+            <content:encoded><![CDATA[<p>As a Stately Pro user, you can now auto-create machines from text descriptions with our new experimental feature, <strong>Generate flow</strong>. You can generate a flow for a new machine or use the flow description to describe how you want to modify your current flow.</p><p><img loading="lazy" src="https://canny.io/images/e42062421f9551d8849e998cc5ebb78f.png" alt="Generate flow dialog: Experimental feature. With the flow description of  “a debounce flow”, hovering over the button to Generate new flow. The generated flow is visible in the background." class="img_ev3q"></p><p>There are so many reasons you might want to generate your flows, including:</p><ul><li>You have a complex machine in mind and want to get started quickly</li><li>You want an example of a state machine for a particular flow</li><li>You’re new and want to get an idea of how you can model state machines</li></ul><p>With 1000 calls a month, and a <a href="https://stately.ai/pricing" target="_blank" rel="noopener noreferrer">free 30-day Pro trial</a>, get ready to create state machines in no time!</p>]]></content:encoded>
+            <category>changelog</category>
+            <category>improved</category>
+            <category>fixed</category>
+        </item>
+        <item>
             <title><![CDATA[Fixes and improvements]]></title>
             <link>https://audionerd.github.io/statelyai-docs/blog/2023-08-23-fixes-and-improvements</link>
             <guid>https://audionerd.github.io/statelyai-docs/blog/2023-08-23-fixes-and-improvements</guid>
@@ -157,19 +157,6 @@ The owner can instead delete the team.</p><p>For more detailed information, visi
             <description><![CDATA[This week, the Stately team has been hard at work with even more bug fixes and improvements.]]></description>
             <content:encoded><![CDATA[<p>This week, the Stately team has been hard at work with even more bug fixes and improvements.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="bug-fixes">Bug fixes<a href="#bug-fixes" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><ul><li>Default action implementations have now been fixed so that the correct default implementation is applied for both XState V4 and XState V5.</li><li>The Learn Stately video modal will no longer show in machine images.</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="improvements">Improvements<a href="#improvements" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><ul><li>If you’re new to Stately, you’ll now get a notification with the option to view the Learn Stately videos instead of the modal opening immediately.</li><li>A plethora of internal fixes and improvements.</li></ul>]]></content:encoded>
             <category>changelog</category>
-            <category>new</category>
-            <category>improved</category>
-            <category>fixed</category>
-        </item>
-        <item>
-            <title><![CDATA[Export descriptions and meta fields, and even more improvements!]]></title>
-            <link>https://audionerd.github.io/statelyai-docs/blog/2023-08-17-export-descriptions-and-meta-fields</link>
-            <guid>https://audionerd.github.io/statelyai-docs/blog/2023-08-17-export-descriptions-and-meta-fields</guid>
-            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[You can now choose to export state and event descriptions and meta fields with your exported code.]]></description>
-            <content:encoded><![CDATA[<p>You can now choose to export state and event descriptions and meta fields with your exported code.</p><p><img loading="lazy" src="https://canny.io/images/a7da75d317d2f0faf17436442cae2051.png" alt="Stately code panel with show descriptions and show meta toggles enabled." class="img_ev3q"></p><p>Find the <strong>Show descriptions</strong> and <strong>Show meta</strong> toggles in the Code panel.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="bug-fixes">Bug fixes<a href="#bug-fixes" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><ul><li>Guarded eventless (always) transitions will now work as expected in Simulation mode.</li><li>We fixed a bug where the layout would sometimes shift in the Version History panel if there were many versions in the list and the user clicked to view one of those versions.</li><li>You are now able to copy the selected text inside the editor again.</li><li>Deleting meta values will no longer affect other meta entries.</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="improvements">Improvements<a href="#improvements" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><ul><li>In read-only mode, selected states and events are now highlighted green rather than blue.</li><li>We changed the wording on the new version banner to reassure users their changes have been saved locally, and they’re safe to refresh the page.</li><li>A host of internal fixes and improvements working towards exciting future features!</li></ul>]]></content:encoded>
-            <category>changelog</category>
-            <category>pro</category>
             <category>new</category>
             <category>improved</category>
             <category>fixed</category>
@@ -187,6 +174,19 @@ The owner can instead delete the team.</p><p>For more detailed information, visi
             <category>demo</category>
             <category>example</category>
             <category>office hours</category>
+        </item>
+        <item>
+            <title><![CDATA[Export descriptions and meta fields, and even more improvements!]]></title>
+            <link>https://audionerd.github.io/statelyai-docs/blog/2023-08-17-export-descriptions-and-meta-fields</link>
+            <guid>https://audionerd.github.io/statelyai-docs/blog/2023-08-17-export-descriptions-and-meta-fields</guid>
+            <pubDate>Thu, 17 Aug 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[You can now choose to export state and event descriptions and meta fields with your exported code.]]></description>
+            <content:encoded><![CDATA[<p>You can now choose to export state and event descriptions and meta fields with your exported code.</p><p><img loading="lazy" src="https://canny.io/images/a7da75d317d2f0faf17436442cae2051.png" alt="Stately code panel with show descriptions and show meta toggles enabled." class="img_ev3q"></p><p>Find the <strong>Show descriptions</strong> and <strong>Show meta</strong> toggles in the Code panel.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="bug-fixes">Bug fixes<a href="#bug-fixes" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><ul><li>Guarded eventless (always) transitions will now work as expected in Simulation mode.</li><li>We fixed a bug where the layout would sometimes shift in the Version History panel if there were many versions in the list and the user clicked to view one of those versions.</li><li>You are now able to copy the selected text inside the editor again.</li><li>Deleting meta values will no longer affect other meta entries.</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="improvements">Improvements<a href="#improvements" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><ul><li>In read-only mode, selected states and events are now highlighted green rather than blue.</li><li>We changed the wording on the new version banner to reassure users their changes have been saved locally, and they’re safe to refresh the page.</li><li>A host of internal fixes and improvements working towards exciting future features!</li></ul>]]></content:encoded>
+            <category>changelog</category>
+            <category>pro</category>
+            <category>new</category>
+            <category>improved</category>
+            <category>fixed</category>
         </item>
         <item>
             <title><![CDATA[And all the other improvements this week!]]></title>
@@ -225,18 +225,6 @@ The owner can instead delete the team.</p><p>For more detailed information, visi
             <category>fixed</category>
         </item>
         <item>
-            <title><![CDATA[Stately minor improvements]]></title>
-            <link>https://audionerd.github.io/statelyai-docs/blog/2023-07-26-stately-minor-improvements</link>
-            <guid>https://audionerd.github.io/statelyai-docs/blog/2023-07-26-stately-minor-improvements</guid>
-            <pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[The Stately team has released more this week, and we have even more fixes and improvements for you.]]></description>
-            <content:encoded><![CDATA[<p>We have more fixes and improvements for you this week.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="bug-fixes">Bug fixes<a href="#bug-fixes" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><ul><li>The previously over-eager logged out toast will now only show after successfully signing out.</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="improvements">Improvements<a href="#improvements" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><ul><li>We now use the XState logo for built-in actions to distinguish them from custom actions:
-<img loading="lazy" src="https://canny.io/images/15c535b6fcbcfe8213cac46cbf38947c.png" alt="State with built-in XState entry actions, including assign, raise, log, send, and stop. These all have a corresponding XState X icon. The custom action has a lightning icon." class="img_ev3q"></li><li>We’ve labeled the <a href="https://feedback.stately.ai/changelog/export-to-mermaid" target="_blank" rel="noopener noreferrer">Export to Mermaid option</a> as “Beta” as we continuously improve this feature.</li><li>When a user shares a direct team link with another user who has been invited to the team but has yet to accept the invitation, we will now redirect that recipient to their team invitation page, where they can accept or decline the invitation.</li><li>After a user has created a new machine, the editor will always switch back to Design mode, even if the user was previously in Simulation mode.</li><li>We’ve improved the page titles so that browser tab text is easier to read and understand.</li><li>A melange of internal fixes and improvements.</li></ul>]]></content:encoded>
-            <category>changelog</category>
-            <category>beta</category>
-            <category>new</category>
-        </item>
-        <item>
             <title><![CDATA[Stately Office Hours 68]]></title>
             <link>https://audionerd.github.io/statelyai-docs/blog/2023-07-26-office-hours-68</link>
             <guid>https://audionerd.github.io/statelyai-docs/blog/2023-07-26-office-hours-68</guid>
@@ -253,6 +241,18 @@ The owner can instead delete the team.</p><p>For more detailed information, visi
             <category>ui</category>
             <category>xstate</category>
             <category>xstate v5</category>
+        </item>
+        <item>
+            <title><![CDATA[Stately minor improvements]]></title>
+            <link>https://audionerd.github.io/statelyai-docs/blog/2023-07-26-stately-minor-improvements</link>
+            <guid>https://audionerd.github.io/statelyai-docs/blog/2023-07-26-stately-minor-improvements</guid>
+            <pubDate>Wed, 26 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[The Stately team has released more this week, and we have even more fixes and improvements for you.]]></description>
+            <content:encoded><![CDATA[<p>We have more fixes and improvements for you this week.</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="bug-fixes">Bug fixes<a href="#bug-fixes" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><ul><li>The previously over-eager logged out toast will now only show after successfully signing out.</li></ul><h2 class="anchor anchorWithStickyNavbar_LWe7" id="improvements">Improvements<a href="#improvements" class="hash-link" aria-label="Direct link to heading" title="Direct link to heading">​</a></h2><ul><li>We now use the XState logo for built-in actions to distinguish them from custom actions:
+<img loading="lazy" src="https://canny.io/images/15c535b6fcbcfe8213cac46cbf38947c.png" alt="State with built-in XState entry actions, including assign, raise, log, send, and stop. These all have a corresponding XState X icon. The custom action has a lightning icon." class="img_ev3q"></li><li>We’ve labeled the <a href="https://feedback.stately.ai/changelog/export-to-mermaid" target="_blank" rel="noopener noreferrer">Export to Mermaid option</a> as “Beta” as we continuously improve this feature.</li><li>When a user shares a direct team link with another user who has been invited to the team but has yet to accept the invitation, we will now redirect that recipient to their team invitation page, where they can accept or decline the invitation.</li><li>After a user has created a new machine, the editor will always switch back to Design mode, even if the user was previously in Simulation mode.</li><li>We’ve improved the page titles so that browser tab text is easier to read and understand.</li><li>A melange of internal fixes and improvements.</li></ul>]]></content:encoded>
+            <category>changelog</category>
+            <category>beta</category>
+            <category>new</category>
         </item>
         <item>
             <title><![CDATA[Improving your flows with color]]></title>
